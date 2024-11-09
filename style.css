@@ -1,0 +1,84 @@
+*{
+    background-color: rgb(39, 38, 38);
+    
+}
+
+#sokna{
+    color: chartreuse;
+    font-family: sans-serif;
+    background-color: rgb(62, 62, 61);
+     margin-left: 630px; 
+    
+}
+
+#assem{
+    font-family: sans-serif;
+    color: azure;
+    background-color: rgb(62, 62, 61);
+     margin-left: 650px; 
+    
+}
+.jes{
+    background-color: rgb(62, 62, 61);
+    border-radius: 20px;
+
+}
+
+img{
+    border-radius: 90%;
+    margin-left: 650px;
+
+}
+
+#a{
+    color: azure;
+    font-family: sans-serif;
+    /* margin-left: 670px; */
+    background-color: rgb(121, 121, 121);
+}
+#b{
+    color: azure;
+    font-family: sans-serif;
+    /* margin-left: 650px; */
+    background-color: rgb(121, 121, 121);
+}
+#c{
+    color: azure;
+    font-family: sans-serif;
+    /* margin-left: 650px; */
+    background-color: rgb(121, 121, 121);
+}
+#d{
+    color: azure;
+    font-family: sans-serif;
+    /* margin-left: 650px; */
+    background-color: rgb(121, 121, 121);
+
+}
+#e{
+    color: azure;
+    font-family: sans-serif;
+    /* margin-left: 650px; */
+    background-color: rgb(121, 121, 121);
+}
+a{
+    text-decoration: none;
+}
+.button{
+    display: block;
+    width: 200px;
+    background-color:  hsl(0, 0%, 20%);
+        color: hsl(0, 0%, 100%) ;
+
+        padding: 30px 50px 60px 20px;
+        padding-left:20px ;
+        padding-top: 6px ;
+        padding-bottom:6px ;
+        padding-right: 20px;
+        margin-left: 625px;
+        border-radius: 30px;
+}
+
+.container{
+    align-items: center;
+}
